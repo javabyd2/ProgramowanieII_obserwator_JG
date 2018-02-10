@@ -1,0 +1,1 @@
+# ProgramowanieII_obserwator_JG
